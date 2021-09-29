@@ -11,6 +11,14 @@ npm i use-scrolled-past
 ## Usage
 
 ```javascript
+import useScrolledPast from 'use-scrolled-past'
+/* ... */
+const scrolledPastRef = useScrolledPast(ref)
+```
+
+## Example
+
+```javascript
 import React from 'react'
 import useScrolledPast from 'use-scrolled-past'
 
@@ -44,4 +52,4 @@ yes.
 
 Returns false if not scrolled past, or `reactRef` else.
 
-`reactRef` must be ref to html dom element (e.g. <div />, <p />)
+`reactRef` must be ref to html dom element (e.g. \<div /\>, \<p /\>)
