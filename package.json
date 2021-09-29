@@ -1,5 +1,6 @@
 {
   "name": "use-scrolled-past",
+  "description": "Use this hook to build links in navigation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
