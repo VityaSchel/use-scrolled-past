@@ -1,8 +1,8 @@
 {
   "name": "use-scrolled-past",
   "description": "Use this hook to build links in navigation",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
